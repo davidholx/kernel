@@ -14,5 +14,6 @@ int main() {
   printf("How are you doing\n");
   printf("Doing\n");
   printf("Nice one\n");
+  printf("It works really well\n");
   return 0;
 }
