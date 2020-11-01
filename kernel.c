@@ -9,5 +9,6 @@ int main() {
   printf("An important modification\n");
   printf("Hello world\n");
   printf("Enjoyable!\n");
+  printf("Some additional writings\n");
   return 0;
 }
