@@ -7,5 +7,6 @@ int main() {
   printf("Modifications by another user\n");
   printf("Yet another modification by a user\n");
   printf("An important modification\n");
+  printf("Hello world\n");
   return 0;
 }
