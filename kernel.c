@@ -10,5 +10,6 @@ int main() {
   printf("Hello world\n");
   printf("Enjoyable!\n");
   printf("Some additional writings\n");
+  printf("Hey\n");
   return 0;
 }
