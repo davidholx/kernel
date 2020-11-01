@@ -8,5 +8,6 @@ int main() {
   printf("Yet another modification by a user\n");
   printf("An important modification\n");
   printf("Hello world\n");
+  printf("Enjoyable!\n");
   return 0;
 }
